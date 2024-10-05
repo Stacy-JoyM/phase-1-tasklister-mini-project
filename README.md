@@ -13,6 +13,7 @@ This project demostrates DOM manipulation of a simple TO-DO List created using H
 * Download a zip in the code button of this repository
 * Open your VS Code and git clone
 * Go live and view project in a browser
+* Alternatively, this project is also live at [View Project Here](https://stacy-joym.github.io/phase-1-tasklister-mini-project/)
 
 ## Known Bugs
 The applications work perfectly well, no bugs.
